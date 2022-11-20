@@ -1,4 +1,4 @@
-# GraphQl server implementation with Deno & GraphQL Yoga
+# GraphQL server implementation with Deno & GraphQL Yoga
 
 ## Tools
 
