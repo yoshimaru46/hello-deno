@@ -11,10 +11,9 @@
 
 ## Development
 
-### start
+### start server
 
 ```zsh
-cd backend
 deno task dev
 ```
 
