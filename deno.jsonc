@@ -1,0 +1,9 @@
+{
+  "importMap": "import_map.json",
+  "tasks": {
+    "dev": "deno run -A --watch src/server.ts",
+    "dev:check": "deno run -A --watch --check src/server.ts",
+    "codegen": "deno run -A src/scripts/codegen.ts",
+    "migrate:db": "deno run -A src/scripts/migrate_db.ts"
+  }
+}

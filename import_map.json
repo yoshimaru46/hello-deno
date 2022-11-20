@@ -1,0 +1,14 @@
+{
+  "imports": {
+    "graphql-yoga": "https://cdn.skypack.dev/graphql-yoga?dts",
+    "graphql": "https://cdn.skypack.dev/graphql?dts",
+    "dotenv": "https://deno.land/std@0.159.0/dotenv/load.ts",
+    "postgres": "https://deno.land/x/postgres@v0.17.0/mod.ts",
+    "server": "https://deno.land/std@0.165.0/http/server.ts",
+    "asserts": "https://deno.land/std@0.165.0/testing/asserts.ts",
+    "@graphql-codegen/core": "npm:@graphql-codegen/core@2.6.6",
+    "@graphql-codegen/typescript": "npm:@graphql-codegen/typescript@2.8.2",
+    "@graphql-codegen/typescript-resolvers": "npm:@graphql-codegen/typescript-resolvers@2.7.7",
+    "@graphql-tools/schema": "npm:@graphql-tools/schema@9.0.10"
+  }
+}
