@@ -1,6 +1,5 @@
 import { pgClient } from "../pg_client.ts";
 
-// TODO: use sqldef？
 try {
   // Create the table
   await pgClient.queryObject`
